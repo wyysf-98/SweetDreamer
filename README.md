@@ -6,6 +6,6 @@
   <img src="https://sweetdreamer3d.github.io/assets/images/overview_pipelines.png"/>
 </p>
 
-#### <p align="center">[Project Page](https://sweetdreamer3d.github.io/) | [ArXiv]() | [Paper]() | [Video]()</p>
+#### <p align="center">[Project Page](https://sweetdreamer3d.github.io/) | [ArXiv](https://arxiv.org/abs/2310.02596) | [Paper]() | [Video]()</p>
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
