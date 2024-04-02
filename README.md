@@ -8,4 +8,4 @@
 
 #### <p align="center">[Project Page](https://sweetdreamer3d.github.io/) | [ArXiv](https://arxiv.org/abs/2310.02596) | [Paper]() | [Video]()</p>
 
-<p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
+<p align="center"> All Code will be released in the next few days, sorry for the delay 🏗️ 🚧 🔨</p>
