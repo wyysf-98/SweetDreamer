@@ -7,12 +7,12 @@
 </p>
 
 #### <p align="center">[Project Page](https://sweetdreamer3d.github.io/) | [ArXiv](https://arxiv.org/abs/2310.02596) | [Paper]() | [Video]()</p>
-<p align="center"> All Code and Ckpt will be released in the next few days, sorry for the delay due to some to some permission issues :( 🏗️ 🚧 🔨</p>
+<p align="center"> All Code and Ckpt will be released in the next few days, sorry for the delay due some to some permission issues :( 🏗️ 🚧 🔨</p>
 
-### Inportant: This repo. is under contrustruction. Pre-trained models are not provided yet, we will provide them in the next few days.
+### Important: This repo. is under construction. Finally, I got time to sort it out :) really sorry for the dealy
 
 - [x] Release the reorganized code
-- [ ] Release the pretrained model (tiny-version)
+- [ ] Release the pretrained model (tiny-version) 
 - [ ] Release the full model
 
 ## Prerequisite
